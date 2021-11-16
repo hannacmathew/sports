@@ -1,0 +1,16 @@
+#thumbs {
+    position: relative;
+    width: 1806px;
+    height: 1050px;
+}
+
+div.thumb {
+    float: left;
+    padding: 1px;
+    width: 600px;
+    height: 350px;
+}
+
+div.thumb img {
+    border: 6px solid white;
+}

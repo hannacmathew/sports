@@ -1,0 +1,29 @@
+https://www.templatemonster.com/demo/58317.html
+
+https://www.templatemonster.com/demo/58525.html
+
+
+
+
+<img src="IMG/right.jpg" width="500" height="500">
+
+
+
+https://www.templatemonster.com/demo/58525.html
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+
+DFKai-SB
+
+Verdana
+
+
+
+
+<ul> <li> <img src="IMG/if_facebook_circle_black_107153.png" width="30" height="30"></li>
+<li> <img src="IMG/if_43-twitter_104461.png" width="30" height="30"></li>
+<li> <img src="IMG/if_80-google-plus_104424.png" width="30" height="30"></li>
+<li> <img src="IMG/if_78-instagram_104425.png" width="30" height="30"></li></ul> 
+
